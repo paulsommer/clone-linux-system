@@ -1,0 +1,6 @@
+/dev/*
+/run/*
+/var/cache/*
+/var/tmp/kdecache*
+/tmp/*
+.cache/*
